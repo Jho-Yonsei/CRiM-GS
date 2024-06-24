@@ -8,7 +8,7 @@
   <br/>
   <br/>
 <div>
-    <a href='https://hydragon.co.kr' target='_blank'>Jungho Lee <sup> 1</sup> </a>&emsp;
+    <a href='https://Jho-Yonsei.github.io' target='_blank'>Jungho Lee <sup> 1</sup> </a>&emsp;
     <a href='https://scholar.google.com/citations?user=BaFYtwgAAAAJ&hl=ko' target='_blank'>Donghyeong Kim <sup> 1</sup></a>&emsp;
     <a href='https://dogyoonlee.github.io' target='_blank'>Dogyoon Lee <sup> 1</sup></a>&emsp;
     <a href='https://suhwan-cho.github.io' target='_blank'>Suhwan Cho <sup> 1</sup></a>&emsp;
