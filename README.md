@@ -4,7 +4,7 @@
  </h3> 
  <br/>
   <a href='https://arxiv.org/abs/'><img src='https://img.shields.io/badge/ArXiv-red' /></a> 
-  <a href='https://CRiM-GS.github.io/'><img src='https://img.shields.io/badge/Project_Page-blue' /></a> 
+  <a href='https://Jho-Yonsei.github.io/CRiM-Gaussian/'><img src='https://img.shields.io/badge/Project_Page-blue' /></a> 
   <br/>
   <br/>
 <div>
