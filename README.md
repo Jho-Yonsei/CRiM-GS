@@ -1,6 +1,6 @@
 <p align="center">
 <h1 align="center">
-  <img src="./assets/cream_rect.png" align="top" width="38" height="38" />&nbsp;CRiM-GS: Continuous Rigid Motion-Aware
+  <img src="./assets/cream_rect.png" align="top" width="38" height="38" />&nbsp;<a href="https://Jho-Yonsei.github.io/CRiM-Gaussian/">CRiM-GS</a>: Continuous Rigid Motion-Aware
   <br />Gaussian Splatting from Motion Blur Images
 </h1>
   <p align="center">
@@ -29,7 +29,7 @@
 | <img width="100%" src="./assets/gif/factory_3dgs.gif">  |  <img width="100%" src="./assets/gif/factory_bags.gif">   |<img width="100%" src="./assets/gif/factory_crimgs.gif">|
 
 \
-we propose continuous rigid motion-aware gaussian splatting (CRiM-GS) to reconstruct accurate 3D scene from blurry images. Considering the actual camera motion blurring process, we predict the continuous movement of the camera based on neural ordinary differential equations (ODEs). Specifically, we introduce continuous rigid body transformations to model the camera motion with proper regularization and a continuous deformable 3D transformation to adapt the rigid body transformation to real-world problems by ensuring a higher degree of freedom. By revisiting fundamental camera theory and employing advanced neural network training techniques, we achieve accurate modeling of continuous camera trajectories.
+We propose continuous rigid motion-aware gaussian splatting (CRiM-GS) to reconstruct accurate 3D scene from blurry images. Considering the actual camera motion blurring process, we predict the continuous movement of the camera based on neural ordinary differential equations (ODEs). Specifically, we introduce continuous rigid body transformations to model the camera motion with proper regularization and a continuous deformable 3D transformation to adapt the rigid body transformation to real-world problems by ensuring a higher degree of freedom. By revisiting fundamental camera theory and employing advanced neural network training techniques, we achieve accurate modeling of continuous camera trajectories.
 
 ## Main Framework
 <img width="100%" src="./assets/framework.png">
