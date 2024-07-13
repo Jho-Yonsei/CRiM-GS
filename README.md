@@ -1,7 +1,7 @@
 <p align="center">
 <h1 align="center">
-  <img src="./assets/cream_rect.png" align="top" width="38" height="38" />&nbsp;CRiM-GS: Continuous Rigid Motion-Aware Gaussian Splatting
-  <br />from Motion Blur Images
+  <img src="./assets/cream_rect.png" align="top" width="38" height="38" />&nbsp;CRiM-GS: Continuous Rigid Motion-Aware
+  <br />Gaussian Splatting from Motion Blur Images
 </h1>
   <p align="center">
     <a href="https://Jho-Yonsei.github.io/">Jungho Lee</a>
