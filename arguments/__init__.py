@@ -61,7 +61,7 @@ class ModelParams(ParamGroup):
         self.load_allres = False
         self.sample_more_highres = False
         self.llffhold = 8
-        self.gamma_correction = True
+        self.gamma_correction = False
         super().__init__(parser, "Loading Parameters", sentinel)
 
     def extract(self, args):
