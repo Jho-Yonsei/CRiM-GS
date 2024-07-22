@@ -2,7 +2,7 @@
 <h1 align="center">
   <a href="https://Jho-Yonsei.github.io/CRiM-Gaussian/">CRiM-GS</a>: Continuous Rigid Motion-Aware
   <br />Gaussian Splatting from Motion Blur Images
-  <br /><img width="40%" src="./assets/output.gif">
+  <br /><img width="40%" src="./assets/crim-gs.gif">
 </h1>
   <p align="center">
     <a href="https://Jho-Yonsei.github.io/">Jungho Lee</a>
