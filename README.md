@@ -2,7 +2,7 @@
 <h1 align="center">
   <a href="https://Jho-Yonsei.github.io/CRiM-Gaussian/">CRiM-GS</a>: Continuous Rigid Motion-Aware
   <br />Gaussian Splatting from Motion Blur Images
-  <br /><img width="40%" src="./assets/cream_rect.png">
+  <br /><img width="40%" src="./assets/output.gif">
 </h1>
   <p align="center">
     <a href="https://Jho-Yonsei.github.io/">Jungho Lee</a>
@@ -69,7 +69,7 @@ python3 ./scripts/run_deblur.py --gpu {gpu} --scene {scene} --train --render
 # For rendering and evaluation
 python3 ./scripts/run_deblur.py --gpu {gpu} --scene {scene} --render --metrics
 
-# For pose optimization after the training [ Appendix ]
+# For pose optimization after training [ Refer our Appendix ]
 python3 ./scripts/run_deblur.py --gpu {gpu} --scene {scene} --render --pose_optimize
 ```
 
